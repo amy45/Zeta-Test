@@ -39,7 +39,7 @@
 "imgurl":"../app/images/6.jpg"},
 {
 "jobTitleName":"Mithali Raj",
-"label":"1",
+"label":"",
 "date":"20th January",
 "content":"Meetings",
 "imgurl":"../app/images/7.jpg"},
@@ -51,7 +51,7 @@
 "imgurl":"../app/images/8.jpg"},
 {
 "jobTitleName":"Sharukh Khan",
-"label":"4",
+"label":"",
 "date":"2nd January",
 "content":"Some other",
 "imgurl":"../app/images/9.jpg"},
@@ -63,7 +63,7 @@
 "imgurl":"../app/images/10.jpg"},
 {
 "jobTitleName":"XYZ",
-"label":"2",
+"label":"",
 "date":"2nd January",
 "content":"Flipkart",
 "imgurl":"../app/images/11.jpg"},

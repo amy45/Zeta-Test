@@ -54,7 +54,7 @@ $(document)
 													+ codeLabel +"&nbsp;"+ content+"</span>";
 											break;
 										default:
-											cell2.innerHTML = "Test";
+											cell2.innerHTML = content;
 											break;
 										}
 										cell3.innerHTML = data.Employees[i].date;
